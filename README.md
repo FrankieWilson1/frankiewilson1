@@ -1,22 +1,20 @@
-# Hi, I'm Frank Ugwu Williams 👋
+# Hi, I'm Frank Williams Ugwu 👋
+### Software Engineer | Systems & Backend Specialist
 
-Electrical Engineer → Full-Stack Developer in training (ALX Africa)
+I am an engineer transitioning from **10 years of industrial diagnostics (Electrician)** to **Software Engineering**. I specialize in debugging complex systems, whether it's high-voltage hardware or low-level C memory management.
 
-Currently in **Week 5/12** of the ALX Professional Frontend program, mastering modern JavaScript/TypeScript, accessibility, and responsive design.
+🛠 **Technical Arsenal**
+* **Systems:** C, Shell Scripting, Linux Kernel logic.
+* **Backend:** Python (Django/Flask), Node.js, Redis, PostgreSQL.
+* **Frontend:** TypeScript, React, Next.js.
+* **DevOps:** Nginx, Docker, CI/CD Pipelines.
 
-### 🔧 Tech Stack & Focus
-- **Backend**: Python, Django REST Framework, PostgreSQL
-- **Frontend**: HTML/CSS, Bootstrap, JavaScript, TypeScript
-- **UI/UX**: User interviews, low-fi wireframing (Balsamiq), high-fi prototyping (Figma)
-- **Foundations**: C, Shell scripting, Git, problem-solving (ex-ALX low-level)
+🚀 **Current Focus**
+I am currently architecting scalable full-stack applications, focusing on:
+* High-performance API design.
+* Background job processing with Redis/Bull.
+* Strict type safety with TypeScript.
 
-### 🌱 Current Projects
-- 🏠 Airbnb-like listing app (TypeScript frontend + database design)
-- 💬 Messaging API with Django REST Framework
-- 🎨 UI/UX prototypes in Figma (coming soon over Christmas break)
-
-### 📌 Pinned Repos Below
-Open to freelance/remote opportunities | Nigeria 🇳🇬 | Remote-first
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/frankiewilson)
-[![GitHub followers](https://img.shields.io/github/followers/frankiewilson1?style=social)](https://github.com/frankiewilson1)
+📫 **Contact**
+* [LinkedIn](https://www.linkedin.com/in/frankiewilson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhUYjlpD8RwWjjANJtUegRg%3D%3D)
+* [Email](mailto:frankuwill101@gmail.com)
